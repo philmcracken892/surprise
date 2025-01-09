@@ -1,0 +1,1 @@
+surprise_box      = { name = 'surprise_box',      label = 'surprise_box',         weight = 100, type = 'surprise_box', image = 'surprise.png',          unique = false, useable = true, shouldClose = true, description = 'surprise_box' },
